@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 C file.
 changed by master.
+=======
+C file. changed by testBr2.
+>>>>>>> testBr2
