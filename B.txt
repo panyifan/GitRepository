@@ -1,1 +1,2 @@
 B file.
+Changed by master.
