@@ -1,2 +1,3 @@
 for master.
 There is a bug.
+bug has been fixed.
